@@ -1,4 +1,4 @@
-This repository demonstrates a crash in the Roslyn MSBuild workspace infrastructure.
+This repository demonstrates a crash in the Roslyn MSBuild workspace infrastructure. It corresponds to [dotnet/roslyn#29494](https://github.com/dotnet/roslyn/issues/29494).
 
 <!-- TOC -->
 
